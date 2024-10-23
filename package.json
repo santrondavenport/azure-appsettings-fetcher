@@ -1,0 +1,16 @@
+{
+  "name": "azure-appsettings-fetcher",
+  "description": "Fetch appsettings.json from an Azure App Service, using the Kudo API, and output it as a local file.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "fetch-config": "./fetch-appsettings.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santron Davenport",
+  "license": "MIT",
+  "dependencies": {}
+}
