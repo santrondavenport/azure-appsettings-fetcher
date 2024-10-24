@@ -14,7 +14,7 @@ You can install this package globally from GitHub, allowing you to use it from a
 
 Example:
 ```bash
-npm install -g santrondavenport/azure-config-fetcher
+npm install -g santrondavenport/azure-appsettings-fetcher
 ```
 
 Replace your-username with your actual GitHub username if you're installing directly from the GitHub repo.
